@@ -3,7 +3,7 @@
 ```Hungryman```
 ## Based on
 ```Food ordering and delivering website```
-### Things included
+### Included
 ``` navbar
     images
     button
@@ -11,7 +11,8 @@
     Toggle
     Slide
     etc
-    ```
-   ## Video demo
+ ```
+ ## Video demo
+ 
    
   
